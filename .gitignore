@@ -1,0 +1,7 @@
+# Data collation intermediaries
+data_collation/named_life_tables_data*
+data_collation/raw_life_tables_data*
+data_collation/life_tables_master.csv
+
+# OSX generated file
+.DS_Store
